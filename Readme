@@ -1,0 +1,138 @@
+he AI-Powered Interview Assistant is a modern React + Vite web app built for the Swipe Internship Assignment. It provides a dual-interface system that mimics a real interview setup.
+
+🎤 Interviewee (Chat Assistant): Candidate practices answers via AI-driven Q&A
+
+📊 Interviewer (Dashboard): Recruiter tracks performance, metrics & progress
+
+This project demonstrates React best practices, modular structure, and forward-thinking features.
+
+🚀 Live Demo
+
+🔗
+
+🌟 Features
+
+✅ Dual Role Interface – Interviewee (chat) & Interviewer (dashboard)
+✅ AI Simulation – Context-aware Q&A with placeholder AI logic
+✅ Real-Time Insights – Monitor time, responses & performance
+✅ Responsive Design – Optimized for desktop, tablet & mobile
+✅ Fast Builds – Powered by Vite + React 18
+✅ Deployment Ready – Easy deployment on Vercel/Netlify
+
+📸 Screenshots
+Interviewee Mode (Chat Assistant)
+
+Interviewer Mode (Dashboard)
+
+
+🛠️ Tech Stack
+
+⚛️ Frontend: React 18, Vite
+
+🎨 UI/Styling: TailwindCSS, shadcn/ui
+
+🧩 State Management: React Hooks + Context API
+
+🤖 AI Logic (Future): OpenAI / Gemini API integration
+
+🚀 Deployment: Vercel (Live hosting)
+
+🚀 Getting Started
+
+1️⃣ Clone Repository
+
+git clone https://github.com/<your-username>/AI-Interview-Assistant.git
+cd AI-Interview-Assistant
+
+
+2️⃣ Install Dependencies
+
+npm install
+
+
+3️⃣ Start Development Server
+
+npm run dev
+
+
+➡️ Open: http://localhost:5173
+
+4️⃣ Build for Production
+
+npm run build
+
+🎯 Usage
+🔹 Interviewee Mode
+
+Chat with the AI assistant
+
+Practice common interview Q&A
+
+Get simulated feedback
+
+🔹 Interviewer Mode
+
+Observe interviewee progress
+
+Track question completion, time & insights
+
+Structure next questions effectively
+
+🔮 Future Enhancements
+
+🎙️ Voice-based Q&A (speech-to-text integration)
+
+📈 Advanced Analytics & Candidate Scoring
+
+📑 Downloadable Interview Reports (PDF/CSV)
+
+🤝 Multi-User Real-Time Session Support
+
+☁️ Cloud Database (Firebase/MongoDB) Integration
+
+🧪 Testing
+
+✅ Unit Tests (Jest)
+
+✅ Component Tests (React Testing Library)
+
+🔄 Integration Tests (Planned for API + UI)
+
+Run tests:
+
+npm run test
+
+🧑‍💻 Contributing
+
+We ❤️ contributions!
+
+Fork the repo
+
+Create a feature branch → git checkout -b feature-name
+
+Commit your changes → git commit -m "Added new feature"
+
+Push to branch → git push origin feature-name
+
+Open a Pull Request 🚀
+
+📬 Contact
+
+👤 Your Name
+📧 your.email@example.com
+
+🌐 GitHub
+
+💼 LinkedIn
+
+📜 License
+
+This project is licensed under the MIT License – free for personal & commercial use with attribution.
+
+⭐ Acknowledgments
+
+🙌 Built for the Swipe Internship Assignment
+
+📚 Inspired by modern AI-powered interview tools
+
+❤️ Thanks to open-source libraries & contributors
