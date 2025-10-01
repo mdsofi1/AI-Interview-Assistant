@@ -1,4 +1,6 @@
-he AI-Powered Interview Assistant is a modern React + Vite web app built for the Swipe Internship Assignment. It provides a dual-interface system that mimics a real interview setup.
+AI-Powered Interview Assistant 
+
+This is a modern React + Vite web app built for Interview Assistant . It provides a dual-interface system that mimics a real interview setup.
 
 🎤 Interviewee (Chat Assistant): Candidate practices answers via AI-driven Q&A
 
@@ -18,11 +20,6 @@ This project demonstrates React best practices, modular structure, and forward-t
 ✅ Responsive Design – Optimized for desktop, tablet & mobile
 ✅ Fast Builds – Powered by Vite + React 18
 ✅ Deployment Ready – Easy deployment on Vercel/Netlify
-
-📸 Screenshots
-Interviewee Mode (Chat Assistant)
-
-Interviewer Mode (Dashboard)
 
 
 🛠️ Tech Stack
@@ -119,11 +116,11 @@ Open a Pull Request 🚀
 📬 Contact
 
 👤 Your Name
-📧 your.email@example.com
+📧 mdsofisarmad@gmail.com
 
-🌐 GitHub
+🌐 GitHub : https://github.com/mdsofi1
 
-💼 LinkedIn
+💼 LinkedIn : https://www.linkedin.com/in/md-sofi-sarmad-b6a79929a
 
 📜 License
 
@@ -134,5 +131,6 @@ This project is licensed under the MIT License – free for personal & commercia
 🙌 Built for the Swipe Internship Assignment
 
 📚 Inspired by modern AI-powered interview tools
+
 
 ❤️ Thanks to open-source libraries & contributors
